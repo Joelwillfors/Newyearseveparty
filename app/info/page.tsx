@@ -5,8 +5,8 @@ export default function InfoPage() {
 
         {/* Quote */}
         <p className="text-neutral-300 italic leading-relaxed">
-          Dryck som är guld<br />
-          Kallas för gulddryck
+          Tid är guld<br />
+          Guld är gulddryck
         </p>
 
         {/* Divider */}
